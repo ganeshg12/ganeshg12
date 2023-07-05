@@ -7,8 +7,6 @@ I am a Fullstack Web Developer, Data Analyst, and Coder.
 * ✉️  You can contact me at [ganeshgond721@gmail.com](mailto:ganeshgond721@gmail.com)
 * 🧠  I'm learning New Skills
 
-<a href="https://www.github.com/ganeshg12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ganeshg12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
